@@ -1,0 +1,14 @@
+Рисуй рукой через веб-камеру ☝️✊🖐
+
+1. Установи Python 3.10+ (python.org)
+2. Открой терминал и вставь:
+
+git clone https://github.com/denisholmov/pixel-draw.git
+cd pixel-draw
+chmod +x setup.sh && ./setup.sh
+
+Windows: вместо последней строки запусти setup.bat
+
+3. Разреши камеру — готово!
+
+Репозиторий: https://github.com/denisholmov/pixel-draw
